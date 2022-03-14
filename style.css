@@ -1,17 +1,17 @@
 body {
-  background-image: url("images/pizzabackground.png");  
+  background-image: url("images/networkbackground.jpg");
   background-size: cover;
   font-family: "Chopin", helvetica;
 }
 
 p {
-  color: red;
+  color: white;
   font-size: 16px;
   margin-right: 200px;
 }
 
 h1 {
-  color: red;
+  color: white;
   font-size: 36px;
   margin-right: 200px;
 }
