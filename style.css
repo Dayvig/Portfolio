@@ -24,26 +24,3 @@ ul, ol {
   color: #800000;
   font-size: 22px;
 }
-
-table {
-
-}
-
-.price {
-  list-style-type: none;
-  color: black;
-}
-
-.menu {
-  background-image: url("images/pizzabackground2.png");
-  background-repeat: repeat;
-  font-family: "Chopin", helvetica;
-}
-
-.menuleft {
-  margin-left: 220px;
-}
-
-.offset {
-  margin-left: 100px;
-}
