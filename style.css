@@ -26,13 +26,14 @@ ul, ol {
   color: #800000;
   font-size: 22px;
 }
+
 a:link {
   color: white;
 }
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: white;
 }
 
 /* mouse over link */
@@ -42,5 +43,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: blue;
+  color: white;
 }
